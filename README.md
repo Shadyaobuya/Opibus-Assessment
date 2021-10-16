@@ -5,7 +5,7 @@ This Repository consists of three python programs:
    * A program to check for the availability of an e-bike
    * A program to extend an existing class method
 
-## Technologies
+## Requirements
   * Python 3.9.5
   * Visual Studio Code
     
