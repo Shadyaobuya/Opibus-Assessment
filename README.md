@@ -1,9 +1,9 @@
 # Opibus-Assessment
 ## Introduction
 This Repository consists of three python programs:
-    * A program to find the highest average between consecutive numbers in a list
-    * A program to check for the availability of an e-bike
-    * A program to extend an existing class method
+   * A program to find the highest average between consecutive numbers in a list
+   * A program to check for the availability of an e-bike
+   * A program to extend an existing class method
 
 ## Technologies
   * Python 3
