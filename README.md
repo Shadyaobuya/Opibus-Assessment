@@ -11,6 +11,7 @@ This Repository consists of three python programs:
     
 ## Setup
 To run the programs you will need to:
+
     * Fork this repository
     * Clone the repository in your terminal
     ```
