@@ -14,9 +14,10 @@ To run the programs you will need to:
 
     * Fork this repository
     * Clone the repository in your terminal
-    ```
+    `
     git clone [url goes here]
-    ```
+    `
+    
     * Using Visual Studio Code, open the cloned document
     * open a new terminal to run the specific programs
     ```
