@@ -4,7 +4,6 @@ class DriverControl:
         pass
     def drive(self):
         pass
-
 #create a class UserControl that is derived from the main DriverControl class
 class UserControl(DriverControl):
     def __init__(self):
