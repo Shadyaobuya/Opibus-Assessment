@@ -6,7 +6,7 @@ This Repository consists of three python programs:
    * A program to extend an existing class method
 
 ## Technologies
-  * Python 3
+  * Python 3.9.5
   * Visual Studio Code
     
 ## Setup

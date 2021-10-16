@@ -12,16 +12,10 @@ def find_highest_average(discharge):
             highest_sum=i
 
     highest_average=highest_sum/2  #get the average of the highest sum
-    
-   #loop through  to get the elements whose average equals the highest aveerage
-    for rate in range(len(discharge)-1):
-        if discharge[rate]+discharge[rate+1] ==highest_sum:
-            return f'Highest average is {highest_average}: {[discharge[rate],discharge[rate+1]]}'
-    
-
+    return highest_average
 
 if __name__=='__main__':
-    print(find_highest_average([2, 3, 4, 1, 5])) #test case 1 output:Highest average is 3.5: [3,4]
-    print(find_highest_average([2, 3, 4, 8, 1, 5])) #test case 2 output: Highest average is 6.0:[4,8]
-    print(find_highest_average([6,1,7,3,9,6])) #test case 3 output: Highest average is 7.5: [9,6]
+    print(find_highest_average([2, 3, 4, 1, 5])) #test case 1 output 3.5: [3,4]
+    print(find_highest_average([2, 3, 4, 8, 1, 5])) #test case 2 output:6.0 [4,8]
+    print(find_highest_average([6,1,7,3,9,6])) #test case 3 output:7.5: [9,6]
 
