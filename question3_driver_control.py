@@ -9,7 +9,7 @@ class UserControl(DriverControl):
     def __init__(self):
         DriverControl.__init__(self)  #instantiate the class 
 
-    def eco_driving(self):     #add other methods
+    def eco_driving(self):     #add other methods eco_driving,sport_driving and off_road_driving
         pass
 
     def sport_driving(self):
@@ -17,4 +17,8 @@ class UserControl(DriverControl):
 
     def off_road_driving(self):
         pass
+
+#Test that object formed from the UserControl class has the drive method
+car=UserControl()
+car.drive()
 
