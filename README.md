@@ -18,7 +18,7 @@ To run the programs you will need to:
  git clone [url goes here]
  `
 
- * Using Visual Studio Code, open the cloned document
+ * Using Visual Studio Code, open the cloned repository
  * open a new terminal to run the specific programs
  ```
  python3 question1_highest_average.py
