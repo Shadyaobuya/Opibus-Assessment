@@ -1,7 +1,7 @@
 # Opibus-Assessment
 ## Introduction
 This Repository consists of three python programs:
-   * A program to find the highest average between consecutive numbers in a list
+   * A program to find the highest average between two consecutive numbers in a list
    * A program to check for the availability of an e-bike
    * A program to extend an existing class method
 
@@ -18,7 +18,7 @@ To run the programs you will need to:
  git clone [url goes here]
  `
 
- * Using Visual Studio Code, open the cloned repository
+ * Using Visual Studio Code, open the folder with the cloned repository
  * open a new terminal to run the specific programs
  ```
  python3 question1_highest_average.py
